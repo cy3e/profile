@@ -1,4 +1,5 @@
-[![Discord] (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] [![Redit] (https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]
+
+[![Redit] (https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/7_MAMA_7/)
 [![linux] (https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]
 [![Linux] (https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)]
 [![linux] (https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)]
